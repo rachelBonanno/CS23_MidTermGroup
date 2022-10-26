@@ -7,4 +7,4 @@
  - Week 1 Game Link: https://syoukeles.itch.io/penguinnurse-build1
  - Week 2 Game Link: https://syoukeles.itch.io/penguinnurse-build2
  - Week 3 Game Link: https://syoukeles.itch.io/penguinnurse-build3
- - Final Game Link: 
+ - Final Game Link: https://syoukeles.itch.io/penguin-nurse
